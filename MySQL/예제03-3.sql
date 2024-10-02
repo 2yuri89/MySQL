@@ -1,0 +1,1 @@
+SELECT LEFT('SQL 완전정복', 3), RIGHT('SQL 완전정복', 4), SUBSTR('SQL 완전정복', 2, 5), SUBSTR('SQL 완전정복', 2);

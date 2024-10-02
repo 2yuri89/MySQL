@@ -1,0 +1,9 @@
+# 점검문제 1
+SELECT *
+FROM 고객
+WHERE 마일리지 BETWEEN 15000 AND 20000;
+
+# 점검문제 2
+SELECT DISTINCT 지역, 도시
+FROM 고객
+ORDER BY 1, 2;

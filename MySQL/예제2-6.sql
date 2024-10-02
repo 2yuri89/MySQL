@@ -1,0 +1,4 @@
+SELECT *
+FROM 고객
+ORDER BY 마일리지 DESC
+LIMIT 3;

@@ -1,0 +1,2 @@
+SELECT *
+FROM 고객;

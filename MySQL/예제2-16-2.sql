@@ -1,0 +1,7 @@
+SELECT *
+FROM 고객
+WHERE 고객회사명 REGEXP '푸드';
+
+SELECT *
+FROM 고객
+WHERE REGEXP_LIKE(고객회사명, '푸드');

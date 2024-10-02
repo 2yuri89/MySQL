@@ -1,0 +1,2 @@
+SELECT DISTINCT 도시
+FROM 고객;

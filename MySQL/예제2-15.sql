@@ -1,0 +1,3 @@
+SELECT 담당자명, 마일리지 FROM 고객 WHERE 마일리지 >=100000 AND 마일리지 <= 200000;
+
+SELECT 담당자명, 마일리지 FROM 고객 WHERE 마일리지 BETWEEN 100000 AND 200000;

@@ -1,0 +1,1 @@
+SELECT LPAD('SQL', 10, '#'), RPAD('SQL', 5, '*');

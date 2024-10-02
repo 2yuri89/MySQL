@@ -1,0 +1,1 @@
+SELECT CONCAT('DREAMS', 'COME', 'TRUE'), CONCAT_WS('-', '2023', '01', '29');
